@@ -40,7 +40,8 @@ apis:
   - name: PlayerDB
     description: "Query Minecraft, Steam and XBox Accounts"
     humanURL: https://playerdb.co/
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
